@@ -1,8 +1,11 @@
-<h2 align="left">Hi 👋! My name is Fikri Nurhakim and I'm a Fullstack Web Developer</h2>
+<img src="https://github.com/akufikri/akufikri/blob/main/download.gif" width="100%"/>
 
 ###
+<p align="center">
+  <b>Hi</b> Iam Fullstack Web Developers
+</p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -26,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="m.com/fikrixyzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
