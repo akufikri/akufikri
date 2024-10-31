@@ -2,8 +2,5 @@
 
 ### Hello there, I am Fikri
 - A Full-stack Web Developer.
-- An Informatics Vocational High School Student. 
 - I'm currently working on my cool side project.
 - I'm looking for opportunities to continue learning and contribute as much as possible.
-
-🚀 From [AkuFikri](https://github.com/akufikri)
