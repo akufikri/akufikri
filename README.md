@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
   <h1>Hi there, I'm Fikri! 👋</h1>
-  <h3>A Passionate Full-Stack Web Developer 🚀</h3>
+  <h3>A Passionate Full-Stack Developer 🚀</h3>
   <br/>
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akufikri.my.id/)
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I am a **Full-stack Web Developer** dedicated to building intuitive and dynamic web applications.
+- 💻 I am a **Full-stack Developer** dedicated to building intuitive and dynamic applications.
 - 🔭 I'm currently working on **a cool side project** to push my boundaries.
 - 🌱 I’m constantly looking for opportunities to **continue learning and contribute** as much as possible to the tech community.
 - ⚡ **Fun fact:** I love turning complex problems into elegant, simple code!
@@ -59,7 +59,7 @@
 
 ### 📫 Let's Connect!
 
-If you want to collaborate, discuss web development, or just say hi, feel free to reach out:
+If you want to collaborate, discuss development, or just say hi, feel free to reach out:
 
 <div align="center">
   <br/>
