@@ -8,6 +8,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akufikri.my.id/)
   [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akufikri)
+  <br/><br/>
   [![AIClub.id Builder](https://aiclub.id/badge/s00_01M550Z98WJDR4H9JHJXWPBSQG.svg?style=pill&theme=dark)](https://aiclub.id/builder/s00_01M550Z98WJDR4H9JHJXWPBSQG)
 </div>
 
