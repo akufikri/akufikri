@@ -1,4 +1,4 @@
-### Hi, I'm Fikri! &nbsp;&nbsp;<sup>&#12299;I build things for the web, mobile and automation. I turn complex problems into simple code.</sup>
+### Hello I'm Fikri! &nbsp;&nbsp;<sup>&#12299; Creating a solution that simplifies complex problems, using proven and easy-to-understand tools.</sup>
 
 ----
 
