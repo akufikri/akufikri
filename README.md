@@ -1,71 +1,57 @@
-<img width="100%" src="https://github.com/user-attachments/assets/ed008ed8-9603-4d30-9d53-cae6cc8e91c6" alt="Header Banner" />
+### Hi, I'm Fikri! &nbsp;&nbsp;<sup>&#12299;I build things for the web, mobile and automation. I turn complex problems into simple code.</sup>
 
-<div align="center">
-  <br/>
-  <h1>Hi there, I'm Fikri! 👋</h1>
-  <h3>A Passionate Full-Stack Developer 🚀</h3>
-  <br/>
+----
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.akufikri.my.id/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akufikri)
-  <br/><br/>
-  [![AIClub.id Builder](https://aiclub.id/badge/s00_01M550Z98WJDR4H9JHJXWPBSQG.svg?style=pill&theme=dark)](https://aiclub.id/builder/s00_01M550Z98WJDR4H9JHJXWPBSQG)
-</div>
-
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=eee&style=flat-square)
+![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=111&logoColor=fff&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=fff&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=fff&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=fff&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=111&logoColor=fff&style=flat-square)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=fff&style=flat-square)
+![liquid](https://img.shields.io/static/v1?logo=liquid&label=&message=liquid&color=111&logoColor=fff&style=flat-square)
 <br/>
-
-### 👨‍💻 About Me
-
-- 💻 I am a **Full-stack Developer** dedicated to building intuitive and dynamic applications.
-- 🔭 I'm currently working on **a cool side project** to push my boundaries.
-- 🌱 I’m constantly looking for opportunities to **continue learning and contribute** as much as possible to the tech community.
-- ⚡ **Fun fact:** I love turning complex problems into elegant, simple code!
-
+![frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=eee&style=flat-square)
+![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=laravel&color=111&logoColor=fff&style=flat-square)
+![codeigniter](https://img.shields.io/static/v1?logo=codeigniter&label=&message=codeigniter&color=111&logoColor=fff&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=reactjs&color=111&logoColor=fff&style=flat-square)
+![expo](https://img.shields.io/static/v1?logo=expo&label=&message=react%20native%20/%20expo&color=111&logoColor=fff&style=flat-square)
+![nextjs](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=nextjs&color=111&logoColor=fff&style=flat-square)
+![shopify](https://img.shields.io/static/v1?logo=shopify&label=&message=shopify&color=111&logoColor=fff&style=flat-square)
 <br/>
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-    <img src="https://img.shields.io/badge/n8n-EA4B3B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  </p>
-</div>
-
+![database](https://img.shields.io/static/v1?label=&message=database:&color=eee&style=flat-square)
+![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=111&logoColor=fff&style=flat-square)
+![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=111&logoColor=fff&style=flat-square)
+![mongodb](https://img.shields.io/static/v1?logo=mongodb&label=&message=mongodb&color=111&logoColor=fff&style=flat-square)
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akufikri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fikri's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akufikri&theme=tokyonight&hide_border=true&background=0D1117" alt="Fikri's Streak" />
-</div>
-
+![infra](https://img.shields.io/static/v1?label=&message=infra:&color=eee&style=flat-square)
+![aws](https://img.shields.io/static/v1?logo=amazonwebservices&label=&message=aws&color=111&logoColor=fff&style=flat-square)
+![s3](https://img.shields.io/static/v1?logo=amazons3&label=&message=aws%20s3&color=111&logoColor=fff&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=fff&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=fff&style=flat-square)
+![podman](https://img.shields.io/static/v1?logo=podman&label=&message=podman&color=111&logoColor=fff&style=flat-square)
 <br/>
+![ai](https://img.shields.io/static/v1?label=&message=ai%20%26%20automation:&color=eee&style=flat-square)
+![n8n](https://img.shields.io/static/v1?logo=n8n&label=&message=n8n&color=111&logoColor=fff&style=flat-square)
+![claude code](https://img.shields.io/static/v1?logo=claude&label=&message=claude%20code&color=111&logoColor=fff&style=flat-square)
+![mcp](https://img.shields.io/static/v1?logo=modelcontextprotocol&label=&message=mcp%20server&color=111&logoColor=fff&style=flat-square)
+![hermes](https://img.shields.io/static/v1?label=&message=hermes%20agent&color=111&style=flat-square)
+![omp](https://img.shields.io/static/v1?label=&message=omp%20(oh-my-pi)&color=111&style=flat-square)
+![kaggle](https://img.shields.io/static/v1?logo=kaggle&label=&message=kaggle&color=111&logoColor=fff&style=flat-square)
 
-### 📫 Let's Connect!
+**Full-Stack Developer** &#12299;_building web apps, mobile apps & backend systems_
+<br/>
+**Automation & AI Builder** &#12299;_specialised in n8n workflows, MCP servers & agentic coding_
+<br/>
+**Open Source Dev** &#12299;_sharing tools, templates & experiments with the community_
 
-If you want to collaborate, discuss development, or just say hi, feel free to reach out:
+----
 
-<div align="center">
-  <br/>
-  <a href="https://www.akufikri.my.id/">
-    <img src="https://img.shields.io/badge/Website-akufikri.my.id-blue?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website" />
-  </a>
-</div>
+<a href="https://github.com/akufikri">
+  <img align="left" alt="Fikri's GitHub" width="20px" src="https://cdn.simpleicons.org/github/808080" />
+</a>
+<a href="https://www.akufikri.my.id/">
+  <img align="left" alt="Fikri's Website" width="20px" src="https://cdn.simpleicons.org/googlechrome/808080" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website & Portfolio : [https://www.akufikri.my.id](https://www.akufikri.my.id) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Dev : <sub>&#9660; &#9660; &#9660;</sub>
